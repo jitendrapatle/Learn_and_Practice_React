@@ -1,0 +1,7 @@
+# Ignore a whole folder (always add a trailing slash)
+node_modules/
+dist/
+
+# Ignore all files that end with a specific extension
+*.vscode
+.gitignore
